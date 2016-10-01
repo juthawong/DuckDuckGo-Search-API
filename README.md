@@ -3,8 +3,9 @@ Search Anything on the web using DuckDuckGo API using our framework and save you
 
 
 ## Composer 
+```
 composer require ampare-engine/duckduckgo
-
+```
 ## How to Use
 
 Just include the php file just like the example.
